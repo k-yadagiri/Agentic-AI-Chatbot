@@ -1,6 +1,6 @@
 # 🤖 Gen AI Chatbot Mentor Project  
 
-This project is an **Agentic AI–based Chatbot Mentor** built to guide users in learning, problem-solving, and concept understanding.  
+This project is an **Gen AI–based Chatbot Mentor** built to guide users in learning, problem-solving, and concept understanding.  
 It uses **agentic reasoning** to behave like a mentor—analyzing user intent and providing structured, step-by-step explanations instead of simple replies.
 
 ---
